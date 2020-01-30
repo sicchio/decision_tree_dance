@@ -1,0 +1,202 @@
+//Hello
+//I am Kate.
+
+function do() {
+"waveHi"
+}
+
+//Welcome to our live coding workshop
+//let's get started
+//please follow these instructions
+
+function do() {
+  "lowerFoot"
+}
+
+
+
+
+
+
+
+
+repeat.function do(), 5 {
+  "lookRight"
+  "lookLeft"
+}
+
+
+
+
+
+
+function do() {
+  "walkToNeighbor"
+}
+
+
+function ask() {
+  "canItouchYourArm"
+}
+
+
+
+
+
+if ("yes") {
+  TouchArm = true;
+}
+
+function TouchArm() {
+  "TouchOtherPersonsArm"
+}
+
+if ("no") {
+  TouchArm = false;
+} else if ("maybe") {
+  TouchArm = false;
+} else {
+  TouchArm = false;
+}
+
+
+
+
+if () {
+  TouchArm = true;
+} then {
+  "sayHi"
+}
+
+if () {
+  TouchArm = false;
+} then {
+  "sitDown"
+}
+
+
+function do() {
+  "lookAtAnotherNeighbor"
+  "checkIfStanding"
+}
+
+if ("standing") {
+  ask = true;
+}
+
+function ask() {
+  "canItouchYourArm"
+}
+
+if ("yes") {
+  TouchArm = true;
+}
+
+function TouchArm() {
+  "TouchOtherPersonsArm"
+}
+
+if ("no") {
+  TouchArm = false;
+} else if ("maybe") {
+  TouchArm = false;
+} else {
+  TouchArm = false;
+}
+
+if () {
+  TouchArm = true;
+} then {
+  "sayHi"
+}
+
+if () {
+  TouchArm = false;
+} then {
+  "sitDown"
+}
+
+function do() {
+  "lookAtAnotherNeighbor"
+  "checkIfStanding"
+}
+
+if ("standing") {
+  ask = true;
+}
+
+function ask() {
+  "canItouchYourArm"
+}
+
+if ("yes") {
+  TouchArm = true;
+}
+
+function TouchArm() {
+  "TouchOtherPersonsArm"
+}
+
+if ("no") {
+  TouchArm = false;
+} else if ("maybe") {
+  TouchArm = false;
+} else {
+  TouchArm = false;
+}
+
+if () {
+  TouchArm = true;
+} then {
+  "sayHi"
+}
+
+if () {
+  TouchArm = false;
+} then {
+  "sitDown"
+}
+
+function do() {
+  "lookAtAnotherNeighbor"
+  "checkIfStanding"
+}
+
+if ("standing") {
+  ask = true;
+}
+
+function ask() {
+  "canItouchYourArm"
+}
+
+if ("yes") {
+  TouchArm = true;
+}
+
+function TouchArm() {
+  "TouchOtherPersonsArm"
+}
+
+if ("no") {
+  TouchArm = false;
+} else if ("maybe") {
+  TouchArm = false;
+} else {
+  TouchArm = false;
+}
+
+if () {
+  TouchArm = true;
+} then {
+  "sayHi"
+}
+
+if () {
+  TouchArm = false;
+} then {
+  "sitDown"
+}
+
+
+//Thank you!
